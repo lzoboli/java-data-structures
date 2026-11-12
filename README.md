@@ -9,7 +9,7 @@ Este repositório armazena as atividades, exercícios e projetos desenvolvidos n
 
 ## 📂 Estrutura do Repositório
 
-As atividades estão organizadas em 12 listas, divididas pelas unidades da disciplina[cite: 2]:
+As atividades estão organizadas em 12 listas, divididas pelas unidades da disciplina:
 
 ```text
 📦 Estruturas-de-Dados
